@@ -1,0 +1,15 @@
+.btn {
+	/* min-height: 30px; */
+	border-radius: 5px;
+	font-size: 1rem;
+	padding: 10px 20px;
+	background-color: lightgray;
+}
+
+.paragraph-frame {
+	background-color: lightgreen;
+	border: 2px solid green;
+	width: 50%;
+	min-height: 100px;
+	padding: 10px;
+}
